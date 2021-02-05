@@ -1,4 +1,4 @@
-# Android_ReadSerial_with_Pl2303Driver
+# Android_Serial_Read_with_Pl2303Driver
 The first time I write a android program.
 Use pl2303g_driver.jar to read info from serial.
 No root is required.
